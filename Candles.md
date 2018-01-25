@@ -7,7 +7,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Candles {
 
     static int birthdayCakeCandles(int n, int[] ar) {
         // Complete this function
