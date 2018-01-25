@@ -5,4 +5,4 @@ To solve the analytical problems and code it
 
 > Jig is having a birthday! She will have a cake with one candle for each year of her age. When she blows out the candles, she’ll only be able to blow out the tallest ones.
 
-> Find and print the number of candles she can successfully blow out.
+:question: Find and print the number of candles she can successfully blow out.
