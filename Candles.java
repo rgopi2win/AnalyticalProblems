@@ -1,5 +1,3 @@
-
-```java
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -34,4 +32,4 @@ public class Candles {
         System.out.println(result);
     }
 }
-```
+
