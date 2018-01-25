@@ -8,3 +8,14 @@ To solve the analytical problems and code it
 :question: Find and print the number of candles she can successfully blow out.
 
 :point_right: [Click for answer](../master/Candles.md)
+
+### 2.
+
+There is a collection of  strings ( There can be multiple occurences of a particular string ). Each string's length is no more than  characters. There are also  queries. For each query, you are given a string, and you need to find out how many times this string occurs in the given collection of  strings.
+
+>Input Format
+
+>The first line contains , the number of strings.
+>The next  lines each contain a string.
+>The nd line contains , the number of queries.
+>The following  lines each contain a query string.
