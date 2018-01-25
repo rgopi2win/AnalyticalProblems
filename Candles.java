@@ -1,4 +1,3 @@
-# Number of Heightest Candles
 
 ```java
 import java.io.*;
