@@ -7,7 +7,7 @@ To solve the analytical problems and code it
 
 :question: Find and print the number of candles she can successfully blow out.
 
-:point_right: [Click for answer](../master/Candles.md)
+:point_right: [Click for answer](../master/Candles.java)
 
 ### 2.
 
