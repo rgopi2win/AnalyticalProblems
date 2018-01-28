@@ -23,3 +23,9 @@ There is a collection of N strings ( There can be multiple occurences of a parti
 > The following Q lines each contain a query string.
 
 :point_right: [Click for answer](../master/QueryFrequency.java)
+
+### 3. Array Manipulation
+
+> You are given a list(1-indexed) of size _n_, initialized with zeroes. You have to perform _m_ operations on the list and output the maximum of final values of all the  _n_ elements in the list. For every operation, you are given three integers _a_, _b_ and _k_  and  and you have to add value _k_ to all the elements ranging from index  to (both inclusive).
+
+> For example, consider a list  of size  _3_. The initial list would be  _a = [0, 0, 0]_ and after performing the update  _0(a, b, k) = (2,3,30)_, the new list would be _a = [0, 30, 30]_. Here, we've added value 30 to elements between indices 2 and 3. Note the index of the list starts from 1.
