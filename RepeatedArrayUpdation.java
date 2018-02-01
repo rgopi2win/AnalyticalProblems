@@ -9,9 +9,7 @@ public class RepeatedArrayUpdation {
             for(int a0 = 0; a0 < m; a0++){
                 int a = in.nextInt();
                 int b = in.nextInt();
-                int k = in.nextInt();
-
-                
+                int k = in.nextInt();               
                 
                 while( a <= b){
                     array[a-1] = array[a-1] + k;
